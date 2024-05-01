@@ -9,4 +9,4 @@ Lachlan Stanbrook (103071795)
 checking, and Backward Chaining (BC) and Forward Chaining (FC) algorithms. Your inference engine will
 take as arguments a Horn-form Knowledge Base KB and a query q which is a proposition symbol and
 determine whether q can be entailed from KB. You will also need to write a report about how your program
-works with different knowledge bases and queries.
+works with different knowledge bases and queries. Implementation will be done on Python using the Windows 10 OS.
