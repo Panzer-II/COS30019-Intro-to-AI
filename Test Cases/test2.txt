@@ -1,0 +1,4 @@
+TELL
+a => p3; p3 => p1; c => e; a; b; p2;
+ASK
+p1
